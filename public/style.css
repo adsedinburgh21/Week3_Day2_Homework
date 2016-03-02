@@ -1,0 +1,12 @@
+body {
+  background: linear-gradient(135deg, orange, orange 60%, blue);
+  background-repeat: no-repeat;
+}
+
+h1 {
+  color: blue;
+}
+
+p {
+  color: #fff;
+}
